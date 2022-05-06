@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 This project from Fronted Mentor was to replicate a QR Code design based on a JPG using only HTML and CSS.
 ### Screenshot
 
-![](./images/screenshot.JPEG)
+![](https://github.com/inkfromblood/frontendmentor-QR-code-challenge/blob/main/images/screenshot.jpeg)
 
 ### Links
 
