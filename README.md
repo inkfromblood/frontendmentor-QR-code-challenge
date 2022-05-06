@@ -21,7 +21,7 @@ This project from Fronted Mentor was to replicate a QR Code design based on a JP
 
 ### Links
 
-- Solution URL: [Solution](https://inkfromblood.github.io/frontendmentor-QR-code-challenge/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-code-component-solution-ryX7mpGU9)
 - Live Site URL: [Live Site](https://inkfromblood.github.io/frontendmentor-QR-code-challenge/)
 
 ## My process
